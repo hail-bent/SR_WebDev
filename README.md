@@ -1,3 +1,3 @@
 # SR_WebDev
 
-Reviewing my content from the Coursera Specialization Responsive Web Development and Design.
+Reviewing my content from the Coursera Specialization Web Design for Everyone.
